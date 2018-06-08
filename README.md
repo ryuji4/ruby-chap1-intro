@@ -7,5 +7,19 @@
 ## ターミナルに打ったコマンド
 
 ```
-【この行を削除して、ターミナルに打ったコマンドをコピペする】
+RyujinoMacBook-puro:ruby-chap1-intro ryuji$ ruby helloruby.rb
+hello,Ruby.
+RyujinoMacBook-puro:ruby-chap1-intro ryuji$ irb(main):001:0>
+-bash: syntax error near unexpected token `main'
+RyujinoMacBook-puro:ruby-chap1-intro ryuji$ irb(main):001:0>
+-bash: syntax error near unexpected token `main'
+RyujinoMacBook-puro:ruby-chap1-intro ryuji$ ruby helloruby.rb
+hello,RUBY!
+RyujinoMacBook-puro:ruby-chap1-intro ryuji$ ruby helloruby.rb
+hello,
+RUBY
+!
+RyujinoMacBook-puro:ruby-chap1-intro ryuji$ ruby helloruby.rb
+hello,Ruby.
+RyujinoMacBook-puro:ruby-chap1-intro ryuji$
 ```
